@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         rdiscount
+highlighter:         pygments
+
+# Permalinks
+permalink:        /blog/:year/:month/:day/:title
+
+# Setup
+title:            Li Yishan
+tagline:          '[ ]'
+description:      'Writing mood & air'
+url:              http://www.liyishan.me
+
+author:         
+  name:           'Yishan'
+  email:          mail@liyishan.me
+  url:            https://twitter.com/costi
+
+paginate:         6
+
+# Custom vars
+version:        0.0.1
