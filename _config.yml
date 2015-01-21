@@ -7,14 +7,15 @@ permalink:        /blog/:year/:month/:day/:title
 
 # Setup
 title:            Li Yishan
-tagline:          '[ ]'
-description:      'Writing mood & air'
-url:              http://www.liyishan.me
+tagline:          '[ words ]'
+description:      'writing mood & air'
+url:              http://write.liyishan.me
 
-author:         
-  name:           'Yishan'
-  email:          mail@liyishan.me
-  url:            https://twitter.com/costi
+# Contact
+author: liyishan
+name: 'Yishan'
+email:  mail@liyishan.me
+url:  https://weibo.com/costi
 
 paginate:         6
 

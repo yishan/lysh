@@ -309,6 +309,10 @@ a.sidebar-nav-item:focus {
   margin-bottom: 4em;
 }
 
+.name {
+    color: #333333;
+    font-size: .870rem;
+
 /* Blog post or page title */
 .page-title,
 .post-title,
