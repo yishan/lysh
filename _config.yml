@@ -3,12 +3,12 @@ markdown:         rdiscount
 highlighter:         pygments
 
 # Permalinks
-permalink:        /blog/:year/:month/:day/:title
+permalink:        /words/:year/:month/:day/:title
 
 # Setup
 title:            Li Yishan
-tagline:          '[ words ]'
-description:      'writing mood & air'
+tagline:          '[ write words ]'
+description:      'writing mood, air and everything else.'
 url:              http://write.liyishan.me
 
 # Contact
