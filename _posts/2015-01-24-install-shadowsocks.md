@@ -33,9 +33,9 @@ DigitalOcean 无试用，注册后初始需要支付 5 美刀（应该算充值�
 
 之后可以在账户下 `Create Droplet` 创建一个 VPS，推荐最便宜的一档，5刀/每月。这里的 Droplet Hostname 随意，方便自己记忆就可以。机房位置_建议选择 San Francisco_，大部分评论都反馈 SF 的机房响应速度快，而看上去应该更快的新加坡机房反而访问不是太流畅。
 
-![DO Create Droplet](\images\2015_01\co_create_droplet.png =600x)
+![DO Create Droplet](\images\2015_01\do_create_droplet.png =600x)
 
-![DO Select Region](\images\2015_01\co_select_region.png =600x)
+![DO Select Region](\images\2015_01\do_select_region.png =600x)
 
 接下来选择操作系统，这里选择的是 Ubuntu 12.04.5 x32（和另一个搭建 VPN 的教程有关，同样也可以用来搭建 Shadowsocks)。
 
