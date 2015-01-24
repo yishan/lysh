@@ -20,4 +20,9 @@ url:  https://weibo.com/costi
 paginate:         6
 
 # Custom vars
+comments:
+  provider: duoshuo
+  duoshuo:
+    short_name: liyishan
+
 version:        0.0.1
