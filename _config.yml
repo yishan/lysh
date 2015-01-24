@@ -8,13 +8,13 @@ permalink:        /words/:year/:month/:day/:title
 # Setup
 title:            Li Yishan
 tagline:          '[ write words ]'
-description:      'writing mood, air and everything else.'
+description:      '三生万物 <3'
 url:              http://write.liyishan.me
 
 # Contact
-author : liyishan
+author : 'Li Yishan'
 name : 'Yishan'
-email :  mail@liyishan.me
+email :  'mail # liyishan.me'
 url :  https://weibo.com/costi
 
 paginate :         6
@@ -24,5 +24,3 @@ comments :
   provider : duoshuo
   duoshuo :
     short_name : liyishan
-
-version :        0.0.1

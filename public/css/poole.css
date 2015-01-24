@@ -401,3 +401,16 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* Custom 扩展内容 */
+.comments {
+  margin-bottom: 2em;
+}
+
+.footer {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: .75em;
+  color: #333;
+  padding-left: 10em;
+  margin-bottom: 2em;
+}
