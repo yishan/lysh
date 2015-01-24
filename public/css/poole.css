@@ -408,8 +408,13 @@ a.pagination-item:hover {
 }
 
 .footer {
+  max-width: 38rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+  margin-bottom: 2em;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: .75em;
   color: #333;
-  margin-bottom: 2em;
 }
