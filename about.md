@@ -13,6 +13,4 @@ title: About
 +   2012-2014 在 Tumblr 更新  [liyishan.cn](http://www.liyishan.cn)
 +   2005-2012 在 Blogbus 更新  [闻阅無山](http://costi.blogbus.com) 
 
-站点主题使用了来自 [@mdo](https://twitter.com/mdo) 的 [Lanyon](http://lanyon.getpoole.com)。
-
 联系我：{{ site.email }}
