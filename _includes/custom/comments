@@ -1,4 +1,4 @@
-{% case site.custom.comments.provider %}
+{% case site.comments.provider %}
 
 {% when "duoshuo" %}
   {% include comments-providers/duoshuo %}
