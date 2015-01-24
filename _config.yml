@@ -12,17 +12,17 @@ description:      'writing mood, air and everything else.'
 url:              http://write.liyishan.me
 
 # Contact
-author: liyishan
-name: 'Yishan'
-email:  mail@liyishan.me
-url:  https://weibo.com/costi
+author : liyishan
+name : 'Yishan'
+email :  mail@liyishan.me
+url :  https://weibo.com/costi
 
-paginate:         6
+paginate :         6
 
 # Custom vars
-comments:
-  provider: duoshuo
-  duoshuo:
-    short_name: liyishan
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : liyishan
 
-version:        0.0.1
+version :        0.0.1

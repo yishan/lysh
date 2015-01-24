@@ -2,3 +2,5 @@
 
 {% when "duoshuo" %}
   {% include comments-providers/duoshuo %}
+
+{% endcase %}
