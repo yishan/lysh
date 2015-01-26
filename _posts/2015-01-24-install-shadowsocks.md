@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何正常上网
+comments: true
 ---
 
 >   VPN供应商Astrill本周通知用户，由于防火长城的升级，使用IPSec、L2TP/IPSec和PPTP协议的设备无法访问它的服务。受影响的主要是iOS设备，其它使用不同协议的设备仍然能正常工作。
