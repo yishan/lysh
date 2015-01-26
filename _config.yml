@@ -21,7 +21,7 @@ paginate :         6
 
 # Custom vars
 comments :
-  provider : duoshuo
+  provider : disqus
   duoshuo :
     short_name : liyishan
   disqus :
