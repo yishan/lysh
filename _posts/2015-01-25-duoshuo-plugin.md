@@ -42,7 +42,7 @@ title: 给 Jekyll 添加评论插件及学习 Jekyllbootstrap 的架构
 
 ### 配置方法二
 
-Jekyllbootstrap（下称 `JB` ）加载评论的思路是代码与页面分离，将评论看做组成页面的元素之一，而不写死在页面模板中，需要时调用相应内容即可。而由于提供了多种评论插件的示范用法，用户稍加改动就可以使用，而多种评论插件使用的不确定性，让JB多使用了一层逻辑判断。
+Jekyllbootstrap（下称 `JB` ）加载评论的思路是代码与页面分离，将评论看做组成页面的元素之一，而不写死在页面模板中，需要时调用相应内容即可。而由于提供了多种评论插件的示范用法，用户稍加改动就可以使用，而多种评论插件使用的不确定性，让 JB 多使用了一层逻辑判断。
 
 #### 修改 _config.yml
 
@@ -86,7 +86,10 @@ Jekyllbootstrap（下称 `JB` ）加载评论的思路是代码与页面分离�
 
     {% endcase %}
     
-这个文档将告诉 Jekyll 在读取 `_config.yml` 时判断 `comments > provider` 的信息，并执行相应的动作，在这里也就是插入 `{% include social/duoshuo %}` 或者 `{% include social/disqus %}`。
+这个文档将告诉 Jekyll 在读取 `_config.yml` 时判断 `comments > provider` 的信息，并执行相应的动作，在这里也就是插入
+
+    {% include social/duoshuo %}  或者
+    {% include social/disqus %}
 
 #### 创建评论代码文档
 
@@ -111,10 +114,6 @@ Jekyllbootstrap（下称 `JB` ）加载评论的思路是代码与页面分离�
 整个步骤完成后，评论代码的调用逻辑就变成了 `文章页调用判断文档 > 读取 _config.yml 对应信息 > 执行判断语句 > 调用代码文档`。
 
 这样的处理可以在更新评论插件的内容时无需对 `post.html` 做出更改，让 `post.html` 仅作为规划页面内容的模板来使用，而不涉及具体内容的调整，同时还加强了调用的灵活性。
-
-#### 补充
-
-`创建判断语句` 中 `comments` 文档的创建应该可以不放入更深一级的文档而直接置于 `_includes` 下，这样的话在 `post.html` 就可以写成 `{% include comments %}`。具体使用哪种方法，看个人喜好和管理上的考量了。
 
 ## 其它 & 参考
 

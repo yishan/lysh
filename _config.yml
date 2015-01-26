@@ -24,3 +24,5 @@ comments :
   provider : duoshuo
   duoshuo :
     short_name : liyishan
+  disqus :
+    short_name : liyishan
