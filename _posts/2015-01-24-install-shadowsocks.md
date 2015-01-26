@@ -57,11 +57,11 @@ DigitalOcean 无试用，注册后初始需要支付 5 美刀（应该算充值�
 
 1.  在 DigitalOcean 后台进行操作。选择图中的 Console Access 后会在页面上出现一个黑色命令行区域，单击即可进行操作。
 
-![DO Console Access](\images\2015_01\do_console_access.png)
+![DO Console Access](\images\2015_01\do_console_access.png =600x)
 
 2.  使用 SSH 工具连接到服务器，我使用的是 [PuTTY](the.earth.li/~sgtatham/putty/0.63/x86/)，软件界面如下图所示，填入邮件里发来的 IP 地址（可在橙色框内填入备注并保存，下次链接可无需重复输入）后点击 `Open` 打开命令行窗口，并连接至服务器。
 
-![PuTTY](\images\2015_01\putty.png)
+![PuTTY](\images\2015_01\putty.png =600x)
 
 第一种方法因为在 DigitalOcean 后台操作，所以已经有了操作权限，可直接跳到下一步。
 

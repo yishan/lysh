@@ -8,14 +8,14 @@ permalink:        /words/:year/:month/:day/:title
 # Setup
 title:            Li Yishan
 tagline:          '[ write words ]'
-description:      '三生万物 <3'
+description:      '一二三·生万物'
 url:              http://write.liyishan.me
 
 # Contact
 author : 'Li Yishan'
 name : 'Yishan'
 email :  'mail # liyishan.me'
-url :  https://weibo.com/costi
+url :  'https://weibo.com/costi'
 
 paginate :         6
 
