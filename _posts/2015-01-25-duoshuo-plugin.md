@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 给 Jekyll 添加评论插件及学习 Jekyllbootstrap 的架构
+title: 给 Jekyll 添加评论插件
+comments: true
 ---
 
 捣鼓着给文章页加上了[多说](http://www.duoshuo.com/)评论，参考了部分教程，同时对 Jekyllbootstrap 关于页面功能调用和 Liquid 模板的使用方法有了一些了解。添加评论插件的方法不难，主要还是花时间了解页面调用的方法，以及观摩 [JekyllBootstrap](https://github.com/plusjade/jekyll-bootstrap/) 的源码去了。

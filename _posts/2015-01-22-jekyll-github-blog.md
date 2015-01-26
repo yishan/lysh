@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jekyll on Github 收工
+comments: true
 ---
 
 捣鼓好了 Jekyll，新的写作站点也同时建好了，想起我第一次对这个东西感兴趣和尝试搭建，已经过去了17个月，结果今年才搞定。

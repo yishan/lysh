@@ -1,6 +1,6 @@
 {% case site.comments.provider %}
 
 {% when "duoshuo" %}
-  {% include social/duoshuo %}
+  {% include social/duoshuo.html %}
 
 {% endcase %}
