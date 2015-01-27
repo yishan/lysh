@@ -13,4 +13,4 @@ title: 关于我
 +   2012-2014 在 Tumblr 更新  [liyishan.cn](http://www.liyishan.cn)
 +   2005-2012 在 Blogbus 更新  [闻阅無山](http://costi.blogbus.com) 
 
-联系我：[{{ site.email }}](mailto:{{ site.email }})
+联系我：[{{ site.email }}](mailto:mail@liyishan.me)
