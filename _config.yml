@@ -17,7 +17,7 @@ name : 'Yishan'
 email :  'mail # liyishan.me'
 url :  'https://weibo.com/costi'
 
-paginate :         6
+paginate :         5
 
 # Custom vars
 comments :
@@ -26,3 +26,5 @@ comments :
     short_name : liyishan
   disqus :
     short_name : liyishan
+
+excerpt_separator: "<!-- more -->"

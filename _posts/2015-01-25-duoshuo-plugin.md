@@ -80,18 +80,18 @@ Jekyllbootstrap（下称 `JB` ）加载评论的思路是代码与页面分离�
     {% case site.comments.provider %}
 
     {% when "duoshuo" %}
-      {% include social/duoshuo %}
+      {% include social/duoshuo.html %}
     {% when "disqus" %}
-      {% include social/disqus %}
+      {% include social/disqus.html %}
 
     {% endcase %}
     {% endraw %}    
 
-这个文档将告诉 Jekyll 在读取 `_config.yml` 时判断 `comments > provider` 的信息，并执行相应的动作，在这里也就是插入 {% raw %}`{% include social/duoshuo %}`{% endraw %} 或者 {% raw %}`{% include social/disqus %}`{% endraw %}
+这个文档将告诉 Jekyll 在读取 `_config.yml` 时判断 `comments > provider` 的信息，并执行相应的动作，在这里也就是插入 {% raw %}`{% include social/duoshuo.html %}`{% endraw %} 或者 {% raw %}`{% include social/disqus.html %}`{% endraw %}
 
 ### 创建评论代码文档
 
-之后同样在 `_includes` 文件夹下新建 `social` 文件夹，并在 `social` 里各自新建 `duoshuo` 和 `disqus` 文档，分别填入评论代码。
+之后同样在 `_includes` 文件夹下新建 `social` 文件夹，并在 `social` 里各自新建 `duoshuo.html` 和 `disqus.html` 文档，分别填入评论代码。
 
 这里的文件夹以及文档可以任意取名，但需要与 `comments` 文档里的语句对得上。
 
@@ -102,8 +102,8 @@ Jekyllbootstrap（下称 `JB` ）加载评论的思路是代码与页面分离�
     |   └── custom
     |       └── comments
     └── social
-        ├── duoshuo
-        └── disqus
+        ├── duoshuo.html
+        └── disqus.html
         
 ### 将评论加入 post.html
 
