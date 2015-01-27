@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: 所有文章
 ---
 
 {% for post in site.posts %}
