@@ -1,4 +1,5 @@
 ---
+layout: resume
 title: 李一山 简历
 ---
 
