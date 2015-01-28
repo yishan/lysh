@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: default
 title: 李一山 简历
 ---
 
