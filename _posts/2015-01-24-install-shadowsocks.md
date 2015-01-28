@@ -108,11 +108,28 @@ Shadowsocks 提供了[多种部署方式](http://shadowsocks.cn/servers.html)，
     "local_port":1080,
     "password":"barfoo!",
     "timeout":300,
-    "method":"aes-256-cfb"
-    "fast_open": false,
+    "method":"aes-256-cfb",
+    "fast_open": false
     }
     
 >   说明："server" 后填入 IP，"server_port" 端口可选填大于 1024、小于 65535 的数字，也可以保留原始的 8388，密码更改为自己好记的内容，后面客户端需要用到。
+
+>   0129 更新
+
+多用户配置方案，配置文件设置成如下内容后，不同用户可分配不同端口和密码登录使用。
+
+    {
+    "server":"my_server_ip",
+    "local_port":1080,
+    "port_password":{
+    "自定义端口1":"密码1",
+    "自定义端口2":"密码2",
+    "自定义端口3":"密码3"
+    },
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open": false
+    }
 
 更改好之后 Ctrl X 保存并退出编辑，会询问是否保存，输入 `Y`，回车。
 
