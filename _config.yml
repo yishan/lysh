@@ -26,3 +26,5 @@ comments :
     short_name : liyishan
   disqus :
     short_name : liyishan
+    
+production_url : http://write.liyishan.me
