@@ -34,19 +34,19 @@ DigitalOcean 无试用，注册后初始需要支付 5 美刀（应该算充值�
 
 之后可以在账户下 `Create Droplet` 创建一个 VPS，推荐最便宜的一档，5刀/每月。这里的 Droplet Hostname 随意，方便自己记忆就可以。机房位置_建议选择 San Francisco_，大部分评论都反馈 SF 的机房响应速度快，而看上去应该更快的新加坡机房反而访问不是太流畅。
 
-![DO Create Droplet](\images\2015_01\do_create_droplet.png =600x)
+![DO Create Droplet](\assets\2015_01\do_create_droplet.png =600x)
 
-![DO Select Region](\images\2015_01\do_select_region.png =600x)
+![DO Select Region](\assets\2015_01\do_select_region.png =600x)
 
 接下来选择操作系统，这里选择的是 Ubuntu 12.04.5 x32（和另一个搭建 VPN 的教程有关，同样也可以用来搭建 Shadowsocks)。
 
-![DO Select Image](\images\2015_01\do_select_image.png =600x)
+![DO Select Image](\assets\2015_01\do_select_image.png =600x)
 
 最后点击页面下方的 `Create Droplet` 就可以了。
 
 稍后会收到一封官方邮件，提示 Droplet 已建好，同时附有 IP 地址、管理帐号及帐号密码。
 
-![DO Mail](\images\2015_01\do_mail_check.png =600x)
+![DO Mail](\assets\2015_01\do_mail_check.png =600x)
 
 同个 DigitalOcean 帐号下可以同时建立 10 个 Droplet，所以以上关于系统的选择可以多尝试几个，比如多数教程所采用的 CentOS + Shadowsocks 的组合。
 
@@ -58,11 +58,11 @@ DigitalOcean 无试用，注册后初始需要支付 5 美刀（应该算充值�
 
 1.  在 DigitalOcean 后台进行操作。选择图中的 Console Access 后会在页面上出现一个黑色命令行区域，单击即可进行操作。
 
-![DO Console Access](\images\2015_01\do_console_access.png =600x)
+![DO Console Access](\assets\2015_01\do_console_access.png =600x)
 
 2.  使用 SSH 工具连接到服务器，我使用的是 [PuTTY](the.earth.li/~sgtatham/putty/0.63/x86/)，软件界面如下图所示，填入邮件里发来的 IP 地址（可在橙色框内填入备注并保存，下次链接可无需重复输入）后点击 `Open` 打开命令行窗口，并连接至服务器。
 
-![PuTTY](\images\2015_01\putty.png =600x)
+![PuTTY](\assets\2015_01\putty.png =600x)
 
 第一种方法因为在 DigitalOcean 后台操作，所以已经有了操作权限，可直接跳到下一步。
 
