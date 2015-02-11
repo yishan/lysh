@@ -3,6 +3,8 @@ layout: page
 title: 关于我
 ---
 
+![About Me](\assets\2015_02\about_me.gif)
+
 <p class="message">
   感谢来访！
 </p>
