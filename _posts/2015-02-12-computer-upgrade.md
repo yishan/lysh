@@ -28,7 +28,7 @@ comments: true
 
 一次点亮。
 
-![Ludashi](\assets\2015_02\computer-upgrade-ludashi.jpg x=600)
+![Ludashi](\assets\2015_02\computer-upgrade-ludashi.jpg)
 
 一开始有报警声，但后来没查出什么问题。
 
