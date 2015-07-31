@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “稍后阅读”这事，重要的是你真的会稍候就读
+title: “稍后阅读”这事，重要的是你真的会去读
 comments: true
 ---
 
