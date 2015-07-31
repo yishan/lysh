@@ -21,3 +21,5 @@ comments: true
 ![Product Hunt Info](\assets\2015_07\ph_prodcut_info.jpg =600x)
 
 总的来说这次改版应该会让人更多的访问PH首页，而不是通过第三方工具或扩展浏览内容，这也应该是此次改版的目的。
+
+频繁更新的 Product Hunt 还让人想起国内一些“致敬”者，从发布到现在还是之前的模样，也许是团队认为[这样](http://next.36kr.com/posts)的工具就够用了？
