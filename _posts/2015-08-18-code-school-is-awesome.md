@@ -12,7 +12,7 @@ Code School 的每一项主题下的课程都是循序渐进的，像 HTML/CSS �
 
 [HTML/CSS](https://www.codeschool.com/paths/html-css) 是 Code School 六项主题中的一项，其它可以学习的课程主题还有 Ruby, Javascripts, iOS, Electives 和 Git。
 
-{% picture /2015_08/paths.png alt="Paths" %}
+{% picture source_medium /2015_08/paths.png alt="Paths" %}
 
 Code School 的课程包括视频与在线练习，通常一节视频后会跟着6~8个需要动手的练习题。制作精良的教学视频（有的课程甚至有自己的主题曲...），以及非常灵活的练习方式，都是网站吸引人的地方。
 

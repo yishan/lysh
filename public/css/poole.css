@@ -407,26 +407,20 @@ a.pagination-item:hover {
     margin-bottom: 2em;
 }
 
-.creativecommon {
+.cc {
   width: 400px;
   padding: .5em .5em;
-  margin-top: 3em;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 3em, auto 0 auto;
   font-size: 85%;
   text-align: center;
   color: #999999;
   background-color: #f9f9f9;
-  border-radius: 3px;
 }
 
 .footer {
   max-width: 38rem;
-  padding-left:  1rem;
-  padding-right: 1rem;
-  margin-left:  auto;
-  margin-right: auto;
-  margin-bottom: 2em;
+  padding: 0 1em 0 1em;
+  margin: 0 auto 2em auto;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: .875em;
   color: #313131;

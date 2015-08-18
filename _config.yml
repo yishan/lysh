@@ -30,7 +30,7 @@ comments :
 production_url : http://write.liyishan.me
 
 picture:
-  source: assets/
+  source: assets
   output: image
   presets:
     default:
