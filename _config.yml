@@ -28,17 +28,3 @@ comments :
     short_name : liyishan
     
 production_url : http://write.liyishan.me
-
-picture:
-  source: assets
-  output: image
-  presets:
-    default:
-      ppi: [1, 1.5,2]
-      source_medium:
-        media: (min-width: 40em)
-        width: 600
-        height: 300
-      source_default: 
-        width: 300
-      ...
