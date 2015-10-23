@@ -15,7 +15,7 @@ comments: true
 
 # 总览
 
-![Intro](\assets\2015_10\intro.jpg)
+![Intro](\assets\2015_10\intro.png)
 
 Duolingo 2011年11月发布，13年 App Store 年度最佳应用。
 
@@ -38,11 +38,11 @@ Memrise 的课程分为两种，分别由网站和用户进行创建，不同的
 
 Busuu 的教学模块分为 Vocabulary，Dialogue，Quiz 和 Writing。每个课程内都包含这四项基础课程，有的课程内的后两个模块属于付费内容，普通用户无法使用。
 
-![Busuu Module](\assets\2015_10\busuu_1.jpg)
+![Busuu Module](\assets\2015_10\busuu_1.png)
 
-![Busuu Module](\assets\2015_10\busuu_2.jpg)
+![Busuu Module](\assets\2015_10\busuu_2.png)
 
-![Busuu Module](\assets\2015_10\busuu_3.jpg)
+![Busuu Module](\assets\2015_10\busuu_3.png)
 
 在 Vocabulary 中，Busuu 为每一个单词和短句同时提供了例句，可以听读具体用法。Dialogue 则类似阅读理解，有填空和选择两种题目。就一个月的使用体验看，这两种练习能够满足日常使用。
 
@@ -54,15 +54,15 @@ Duolingo 的教学模块随机出现在各个课程中，体现在不同的练�
 
 注意到这里是以英文使用者来学习外语进行练习的，包括 Busuu 和 Memrise 都以英文使用者为主要用户，仅有 Duolingo 提供了针对中文使用者的课程，但仅限于学习英语而已。所以这里提到的练习可能都包含了一个前提，那就是需要有英文基础。
 
-![Duolingo Module](\assets\2015_10\duolingo_1.jpg)
+![Duolingo Module](\assets\2015_10\duolingo_1.png)
 
-![Duolingo Module](\assets\2015_10\duolingo_2.jpg)
+![Duolingo Module](\assets\2015_10\duolingo_2.png)
 
 Memrise 教学模块与 Duolingo 基本类似，但在输入上有些区别。Memrise 为每个需要输入字母的模块都提供了不超过 10 个的预设字母，从中选择进行拼写就可以。而 Duolingo 是完全需要自己从系统内置键盘去拼写的，相对来看，Duolingo 的输入方式对于内容记忆可能较有优势。
 
-![Memrise Module](\assets\2015_10\memrise_1.jpg)
+![Memrise Module](\assets\2015_10\memrise_1.png)
 
-![Memrise Module](\assets\2015_10\memrise_2.jpg)
+![Memrise Module](\assets\2015_10\memrise_2.png)
 
 从练习的紧张程度看，Duolingo 与 Memrise 有限时练习模块，而 Busuu 的所有模块都可以泡杯茶慢慢写。
 
@@ -133,7 +133,9 @@ Memrise 在一个单词或短句上有时会提供多个声源，但声源质量
 
 ## 费用
 
-Busuu 在网站上提供单月、半年，一年与两年的订阅计划，费用总额分别是 100 元，390 元，490 元和 790 元，价格略高。我在与客服沟通某项功能无法使用后获得了一个 35% 的折扣，另外还因测试付费中途停止而收到网站主动发来的 20% 的折扣。有兴趣购买服务的朋友可以看看是否有可能获得折扣码，有 35% 优惠的话还是比较划算的。
+Busuu 在网站上提供单月、半年，一年与两年的订阅计划，费用总额分别是 100 元，390 元，490 元和 790 元，价格略高。
+
+我曾经在与客服沟通某项功能无法使用后获得了一个 35% 的折扣，另外还因测试付费中途停止而收到网站主动发来的 20% 的折扣。有兴趣购买服务的朋友可以看看是否有可能获得折扣码，有 20% 以上折扣的话价格还可以。
 
 Memrise 的付费计划则分为每月 9 美元和每年 59 美元两档，不过在学习过程中，Memrise 会不时给你发送 50% 的折扣链接，而且发送频率还不低，折扣后的价格印象中应该是 4.49 美元和 29.49 美元。
 
