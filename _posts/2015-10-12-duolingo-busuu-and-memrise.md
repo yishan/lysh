@@ -88,24 +88,21 @@ Duolingo 将所有在课程中遇见过的词汇都汇总在一个页面中，�
 
 先说总体感受，在语音课程的发音和聆听准度方面，Busuu 最好，Duolingo 其次，Memrise 则稍微不敌 Memrise。当然对于流畅使用语言的用户来说这个评价是完全不准的，具体下面说。
 
-Busuu 的语音是三家中最清晰的，语速较为适中，方便辨别音律和辨识音节，这在学习过程中是比较重要的。
+Busuu 的语音是三家中最清晰的，语速较为适中，方便辨别音律和辨识音节，这在学习过程中是比较重要的。[（点击播放音频）](https://soundcloud.com/liyishan/busuu)
 
     Salve, voglio iscrivermi in palestra.
     Ok, bisogna compilare un modulo.
     
-    https://soundcloud.com/liyishan/busuu
 
-Duolingo 的语音听得最久，相比其它两家还提供普通和慢速两种播放速度，不过在普通速度时 Duolingo 的发音或许是太过日常，有一些需要听读的句子，在对句子结构还不够熟悉的时候，可能会发现有太多音被连读和吞音了。
+Duolingo 的语音听得最久，相比其它两家还提供普通和慢速两种播放速度，不过在普通速度时 Duolingo 的发音或许是太过日常，有一些需要听读的句子，在对句子结构还不够熟悉的时候，可能会发现有太多音被连读和吞音了。[（点击播放音频）](https://soundcloud.com/liyishan/duolingo)
 
     Non lo voglio ripetere.
     
-    https://soundcloud.com/liyishan/duolingo
 
-Memrise 在一个单词或短句上有时会提供多个声源，但声源质量参差不齐，增添了一些选择的乐趣，但对实际听读帮助并不大。质量好的声源与 Duolingo 无异。
+Memrise 在一个单词或短句上有时会提供多个声源，但声源质量参差不齐，增添了一些选择的乐趣，但对实际听读帮助并不大。质量好的声源与 Duolingo 无异。[（点击播放音频）](    https://soundcloud.com/liyishan/memrise)
 
     il forno. decidere.
     
-    https://soundcloud.com/liyishan/memrise
 
 
 # 增值服务
@@ -138,11 +135,7 @@ Memrise 在一个单词或短句上有时会提供多个声源，但声源质量
 
 Busuu 在网站上提供单月、半年，一年与两年的订阅计划，费用总额分别是 100 元，390 元，490 元和 790 元，价格略高。我在与客服沟通某项功能无法使用后获得了一个 35% 的折扣，另外还因测试付费中途停止而收到网站主动发来的 20% 的折扣。有兴趣购买服务的朋友可以看看是否有可能获得折扣码，有 35% 优惠的话还是比较划算的。
 
-![Busuu Premium](\assets\2015_10\busuu_price.jpg)
-
 Memrise 的付费计划则分为每月 9 美元和每年 59 美元两档，不过在学习过程中，Memrise 会不时给你发送 50% 的折扣链接，而且发送频率还不低，折扣后的价格印象中应该是 4.49 美元和 29.49 美元。
-
-![Memrise Premium](\assets\2015_10\memrise_price.jpg)
 
 
 # 认证
