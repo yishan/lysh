@@ -10,7 +10,7 @@ comments: true
 
 Designer 是一个与版式相关的“云端驱动的推荐引擎”（cloud-powered recommendation engine），能够针对用户添加进幻灯中的图片进行分析，并在右侧栏中给出若干可一键应用的版式。
 
-![source: blogs.office.com](The-evolution-of-PowerPoint-1.png)
+![source: blogs.office.com](\assets\2015_11\The-evolution-of-PowerPoint-1.png)
 
 Office 团队表示 Designer 是与许多专业设计师进行合作后的产品，现已有约一万两千种样式，能够帮助用户将图片以最优秀的方式展示在幻灯中。
 
@@ -30,7 +30,7 @@ Magic Move 有多厉害？我的看法是，像 Keynote 这么不好用的软件
 
 请注意“类似”这词，因为你根本没办法 100% 复刻像 Magic Move 那样的效果。而在淘宝卖得非常火的许岑 Keynote 教程里甚至专门为 Magic Move 进行了专门讲解。（主观地说，这课程的实用程度不及《写给大家看的PPT设计书》）
 
-![source: blogs.office.com](The-evolution-of-PowerPoint-2.png)
+![source: blogs.office.com](\assets\2015_11\The-evolution-of-PowerPoint-2.png)
 
 现在 OK 了，Morph 来了后，Powerpoint 也能挺起腰板做幻灯了，不用很辛苦也能做出不比别人差的效果。我认为是实实在在地补强了原本弱与 Keynote 的地方。
 
