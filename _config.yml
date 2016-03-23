@@ -9,13 +9,13 @@ permalink:        /words/:year/:month/:day/:title
 title:            Li Yishan
 tagline:          '[ write words ]'
 description:      '一二三·生万物'
-url:              http://write.liyishan.me
+url:              http://write.yishan.li
 
 # Contact
 author : 'Li Yishan'
 name : 'Yishan'
 email :  'mail # liyishan.me'
-url :  'http://write.liyishan.me'
+url :  'http://write.yishan.li'
 
 paginate :         5
 
@@ -27,4 +27,4 @@ comments :
   disqus :
     short_name : liyishan
     
-production_url : http://write.liyishan.me
+production_url : http://write.yishan.li
