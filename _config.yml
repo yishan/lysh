@@ -1,6 +1,10 @@
 # Dependencies
 markdown:         kramdown
+<<<<<<< HEAD
 highlighter:         rouge
+=======
+highlighter:         pygments
+>>>>>>> origin/master
 
 # Permalinks
 permalink:        /words/:year/:month/:day/:title
